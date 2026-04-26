@@ -7,7 +7,9 @@ layout: default
 <style>
 body {
     font-family: "Times New Roman," Times, serif;
-    text-align: justify;
+    max-width: 800px;
+    margin:: 0 auto
+    padding: 2rem;
     }
 </style>
 

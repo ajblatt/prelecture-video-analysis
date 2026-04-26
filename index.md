@@ -11,6 +11,9 @@ body {
     margin:: 0 auto
     padding: 2rem;
     }
+
+p {text-align: justify;
+line-height: 1.6}
 </style>
 
 <!--Image sizes-->

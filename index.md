@@ -38,14 +38,28 @@ Pre-Lecture Videos Rating:
 
 # Visualizations:
 
-## Distribution of *Prior Programming Experience*:
+## Distribution of Prior Programming Experience:
 <img src="graph1.png" width="500">
 
+## Distribution of Pre-Lecture Video Ratings by Prior Experience:
+<img src="graph2.png" width="500">
+
+## Average Helpfulness of Pre-Lecture Videos by Prior Experience:
+<img src="graph2.png" width="500">
+
+# Conclusion:
+Based on the results, I recommend that the course incorporate optional pre-lecture videos to support student learning. Students with minimal experience (“None to less than one month!”) had the highest average rating for pre-class videos (5.527), while students with the most experience (“Over 2 years”) had the lowest preference (4.333). And although the data is not perfectly monotonic (e.g., ”7-12 months” (5.212) > “2-6 months” (5.016)), the overall downward trend suggests that pre-lecture videos are more valuable to students new to programming. 
+
+One possible extension of this idea would be to offer two types of pre-lecture videos: one focused on the foundational explanations in a simplified manner, and another that goes more in-depth for students with stronger backgrounds, or who want to challenge themselves. This would allow those with less experience to build their skills at an appropriate pace, while providing more experienced students the opportunity to engage with the material at a deeper level. It may also give students who are unsure about committing to a computer science major a preview of what they could expect if they continue.
+
+A potential trade-off to consider would be the resources required to implement this proposal. Creating short pre-lecture videos requires time and effort from professors, increasing their workload. Even recording lecture videos would require time to set up the equipment and potentially edit the videos. Additionally, some students (perhaps those with more experience) may choose to skip the lectures and rely solely on the videos, which could reduce overall class engagement. 
+
+Overall, this analysis supports the idea that incorporating pre-lecture videos could improve learning in COMP 110, especially for those with minimal prior programming experience.
 
 <!-- # This is a big header
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<!-- <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 <!-- ## This is a small header
 

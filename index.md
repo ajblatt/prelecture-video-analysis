@@ -68,7 +68,9 @@ To analyze this relationship, I applied a helper function I created, average_by_
 
 ### Hypothesis:
 If students have less prior programming experience, then they will, on average, rate pre-lecture videos as more helpful compared to students with more experience.
----
+
+<hr>
+
 ## Data:
 
 ### *Count* Function:
@@ -80,7 +82,9 @@ Pre-Lecture Videos Rating:
 
 ### *Average* Function:
 {'None to less than one month!': 5.527, '2-6 months': 5.016, '7-12 months': 5.212, '1-2 years': 4.8, 'Over 2 years': 4.333}
----
+
+<hr>
+
 ## Visualizations:
 
 ### Distribution of Prior Programming Experience:

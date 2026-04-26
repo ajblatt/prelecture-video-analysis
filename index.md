@@ -4,43 +4,6 @@ layout: default
 ---
 <span style='font-family:Times New Roman'>
 
-<style>
-body {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 24px;
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  font-size: 18px;
-  color: #222;
-}
-
-h1, h2, h3 {
-  line-height: 1.2;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: 24px auto;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-}
-
-figcaption, .caption {
-  font-size: 15px;
-  color: #555;
-  text-align: center;
-  margin-top: -12px;
-  margin-bottom: 32px;
-}
-
-section {
-  margin-bottom: 48px;
-}
-</style>
-
 # Summary:
 
 ## Introduction:

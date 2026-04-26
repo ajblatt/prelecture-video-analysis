@@ -39,7 +39,7 @@ Pre-Lecture Videos Rating:
 # Visualizations:
 
 ## Distribution of Prior Programming Experience:
-<img src="imgs/graph1.png" width="700">
+<img src="./imgs/graph1.png" width="700" alt="Distribution of prior programming experience">
 
 ## Distribution of Pre-Lecture Video Ratings by Prior Experience:
 <img src="imgs/graph2.png" width="700">

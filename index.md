@@ -8,6 +8,16 @@ layout: default
 body {font-family: "Times New Roman," Times, serif}
 </style>
 
+<!--Image sizes-->
+</style>
+img {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5 rem auto;
+}
+</style>
 
 
 # Summary:

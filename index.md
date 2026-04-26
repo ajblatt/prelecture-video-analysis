@@ -28,6 +28,15 @@ img {
     display: block;
     margin: 1.5 rem auto;
 }
+
+h1, h2, h3 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+p {margin-bottom: 1.2rem;}
+
+img {margin: 2rem auto}
 </style>
 
 <!--Line Styling-->

@@ -30,6 +30,15 @@ img {
 }
 </style>
 
+<!--Line Styling-->
+<style>
+hr {
+    border: none;
+    border-top: 1px solid #000000;
+    margin: 2rem 0;
+}
+</style>
+
 <!--Getting rid of the title and adding my own-->
 
 <style>
@@ -59,8 +68,7 @@ To analyze this relationship, I applied a helper function I created, average_by_
 
 ### Hypothesis:
 If students have less prior programming experience, then they will, on average, rate pre-lecture videos as more helpful compared to students with more experience.
-
-
+---
 ## Data:
 
 ### *Count* Function:
@@ -72,7 +80,7 @@ Pre-Lecture Videos Rating:
 
 ### *Average* Function:
 {'None to less than one month!': 5.527, '2-6 months': 5.016, '7-12 months': 5.212, '1-2 years': 4.8, 'Over 2 years': 4.333}
-
+---
 ## Visualizations:
 
 ### Distribution of Prior Programming Experience:
@@ -83,6 +91,8 @@ Pre-Lecture Videos Rating:
 
 ### Average Helpfulness of Pre-Lecture Videos by Prior Experience:
 <img src="./static/imgs/graph3.png">
+
+<hr>
 
 ## Conclusion:
 Based on the results, I recommend that the course incorporate optional pre-lecture videos to support student learning. Students with minimal experience (“None to less than one month!”) had the highest average rating for pre-class videos (5.527), while students with the most experience (“Over 2 years”) had the lowest preference (4.333). And although the data is not perfectly monotonic (e.g., ”7-12 months” (5.212) > “2-6 months” (5.016)), the overall downward trend suggests that pre-lecture videos are more valuable to students new to programming. 

@@ -5,7 +5,10 @@ layout: default
 
 <!--Font-->
 <style>
-body {font-family: "Times New Roman," Times, serif}
+body {
+    font-family: "Times New Roman," Times, serif;
+    text-align: justify;
+    }
 </style>
 
 <!--Image sizes-->

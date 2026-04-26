@@ -9,7 +9,7 @@ body {font-family: "Times New Roman," Times, serif}
 </style>
 
 <!--Image sizes-->
-</style>
+<style>
 img {
     max-width: 600px;
     width: 100%;

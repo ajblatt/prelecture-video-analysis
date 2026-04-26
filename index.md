@@ -2,7 +2,13 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-<span style='font-family:Times New Roman'>
+
+<!--Font-->
+<style>
+body {font-family: "Times New Roman," Times, serif}
+</style>
+
+
 
 # Summary:
 
@@ -55,4 +61,3 @@ One possible extension of this idea would be to offer two types of pre-lecture v
 A potential trade-off to consider would be the resources required to implement this proposal. Creating short pre-lecture videos requires time and effort from professors, increasing their workload. Even recording lecture videos would require time to set up the equipment and potentially edit the videos. Additionally, some students (perhaps those with more experience) may choose to skip the lectures and rely solely on the videos, which could reduce overall class engagement. 
 
 Overall, this analysis supports the idea that incorporating pre-lecture videos could improve learning in COMP 110, especially for those with minimal prior programming experience.
-

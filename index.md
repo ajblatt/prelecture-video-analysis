@@ -12,7 +12,7 @@ body {font-family: "Times New Roman," Times, serif}
 <style>
 img {
     max-width: 600px;
-    width: 100%;
+    width: auto;
     height: auto;
     display: block;
     margin: 1.5 rem auto;

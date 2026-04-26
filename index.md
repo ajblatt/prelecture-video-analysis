@@ -30,6 +30,15 @@ img {
 }
 </style>
 
+<!--Getting rid of the title and adding my own-->
+
+<style>
+.site-title{
+    display: none;
+}
+</style>
+# Pre-Lecture Video Analysis
+
 
 # Summary:
 

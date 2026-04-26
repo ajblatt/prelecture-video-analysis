@@ -3,14 +3,17 @@
 layout: default
 ---
 
-<!--Font-->
+<!--Centering and style-->
 <style>
+main, .wrapper, .container, .content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
 body {
     font-family: "Times New Roman," Times, serif;
-    max-width: 800px;
-    margin:: 0 auto
-    padding: 2rem;
-    }
+}
 
 p {text-align: justify;
 line-height: 1.6}
@@ -20,7 +23,7 @@ line-height: 1.6}
 <style>
 img {
     max-width: 600px;
-    width: auto;
+    width: 100%;
     height: auto;
     display: block;
     margin: 1.5 rem auto;

@@ -34,7 +34,7 @@ img {
 <style>
 hr {
     border: none;
-    border-top: 1px solid #000000;
+    border-top: 1px solid #ccc;
     margin: 2rem 0;
 }
 </style>

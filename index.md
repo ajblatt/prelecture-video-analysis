@@ -36,6 +36,11 @@ Pre-Lecture Videos Rating:
 ## *Average* Function:
 {'None to less than one month!': 5.527, '2-6 months': 5.016, '7-12 months': 5.212, '1-2 years': 4.8, 'Over 2 years': 4.333}
 
+# Visualizations:
+
+## Distribution of *Prior Programming Experience*:
+<img src="graph1.png" width="500">
+
 
 <!-- # This is a big header
 
